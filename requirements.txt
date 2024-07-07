@@ -1,0 +1,7 @@
+langchain
+langchain-community
+langchain-experimental
+unstructured
+unstructured[pdf]
+docarray
+python-magic python-magic-bin
