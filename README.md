@@ -10,7 +10,7 @@ git clone https://github.com/fahriialfiansyah/langchain-ollama-llama3-chat-pdf.g
 ```shell
 cd langchain-ollama-llama3-chat-pdf
 ```
-3. This project uses [Poetry](https://python-poetry.org/) for dependency management. Install the required dependencies:
+3. This project uses [Pip Python](https://pip.pypa.io/en/stable/) for dependency management. Install the required dependencies:
 ```shell
 # create python environment
 python -m venv .venv
