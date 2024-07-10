@@ -1,5 +1,5 @@
-# Multiple Chat PDF Using LangChain, Ollama, and Llama3 8B
-This project creates multiple chat local interfaces for PDF documents using LangChain, Ollama, and the LLaMA 3 8B model. The repository includes sample pdf, notebook, and requirements for interacting with and extracting information from PDFs, enabling efficient conversations with document content. It uses Python 3.12.4 and DocArrayInMemorySearch as the vector database.
+# Chat with Multiple PDF Using LangChain, Ollama, and Llama3 8B
+This project creates chat local interfaces for multiple PDF documents using LangChain, Ollama, and the LLaMA 3 8B model. The repository includes sample pdf, notebook, and requirements for interacting with and extracting information from PDFs, enabling efficient conversations with document content. It uses Python 3.12.4 and DocArrayInMemorySearch as the vector database.
 
 ## Installation Steps
 1. Clone the repository:
